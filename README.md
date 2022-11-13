@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code;Always%20learning%20new%20tech&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=36&pause=1000&width=435&lines=Senior+Full+Stack+developer;Make+it+work%2C+make+it+right%2C+make+it+fast"></p>
 
 <img align="right" height="96" src="https://github-widgetbox.vercel.app/api/profile?username=prodev-web&data=followers,repositories,stars,commits">
 
