@@ -1,6 +1,6 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&width=435&lines=Senior+Full+Stack+developer;Make+it+work%2C+make+it+right%2C+make+it+fast"></p>
 
-<img align="right" height="96" src="https://github-widgetbox.vercel.app/api/profile?username=prodev-web&data=followers,repositories,stars,commits">
+<img align="right" height="96" src="https://github-widgetbox.vercel.app/api/profile?username=stack-guru&data=followers,repositories,stars,commits">
 
 ## *Skill Set*
 
